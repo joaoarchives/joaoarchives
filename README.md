@@ -11,7 +11,7 @@
 - 🎓 Estudante de **Ciência da Computação**
 - 🐍 Apaixonado por **Python**, **Backend** e **Automação**
 - 🤖 Desenvolvendo sistemas para **automatizar processos do mundo real**
-- 📍 Goiás, Brasil
+- 📍 Brasília, Brasil
 - 🚀 Sempre aprendendo e construindo coisas novas
 
 ---
