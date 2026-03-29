@@ -11,7 +11,7 @@
 - 🎓 Estudante de **Ciência da Computação**
 - 🐍 Apaixonado por **Python**, **Backend** e **Automação**
 - 🤖 Desenvolvendo sistemas para **automatizar processos do mundo real**
-- 📍 Brasília, Brasil
+- 📍 Goiás, Brasil
 - 🚀 Sempre aprendendo e construindo coisas novas
 
 ---
@@ -32,7 +32,7 @@
 
 ## 📌 Projetos em Destaque
 
-### 🤖 [Sistema de Automação de Atendimento via WhatsApp para Clínica](https://github.com/joaoarchives/-Sistema-de-Automa-o-de-Atendimento-via-WhatsApp-para-Cl-nica-de-Nutri-o)
+### 🤖 [Sistema de Automação de Atendimento via WhatsApp para Clínica](https://github.com/joaoarchives/whatsapp-clinica-bot)
 > Sistema automatizado de atendimento ao cliente via WhatsApp, desenvolvido para clínicas de nutrição.  
 > Automatiza agendamentos, respostas e fluxo de atendimento.
 
