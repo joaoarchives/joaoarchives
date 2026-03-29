@@ -45,9 +45,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoarchives&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00C853&icon_color=00C853"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoarchives&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C853"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaoarchives&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C853&icon_color=00C853"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaoarchives&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C853"/>
 </div>
+
 
 ---
 
